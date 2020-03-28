@@ -2,7 +2,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/kareem0badawy/Vue-Nuxt.js-Node-Amazon-Project">
-        <img src="shorturl.at/rLUX2" alt="vue-node-amazon-project" width="1000" height="350">
+        <img src="amazon-clone.jpg" alt="vue-node-amazon-project" width="1000" height="350">
     </a>
 </p>
 
